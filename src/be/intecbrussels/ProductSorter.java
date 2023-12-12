@@ -12,7 +12,7 @@ public class ProductSorter {
 
     private List healthProducts = new ArrayList();
 
-    private List electricProducts = new ArrayList();
+  
 
 
     public void sortProduct(Product product) {
