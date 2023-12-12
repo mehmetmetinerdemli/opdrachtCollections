@@ -19,10 +19,10 @@ public class ProductFactory {
 
     }
 
-    public ProductFactory(String[] foodProducts, String[] healthProducts, String[] electricProducts) {
+    public ProductFactory(String[] foodProducts, String[] healthProducts) {
         this.foodProducts = foodProducts;
         this.healthProducts = healthProducts;
-        this.electricProducts = electricProducts;
+       
     }
 
     public String[] getFoodProducts() {
