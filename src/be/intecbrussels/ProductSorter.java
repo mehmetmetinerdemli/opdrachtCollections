@@ -31,9 +31,7 @@ public class ProductSorter {
         return healthProducts;
     }
 
-    public List getElectricProducts() {
-        return electricProducts;
-    }
+    
 
 
 }
