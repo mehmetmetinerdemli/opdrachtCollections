@@ -5,7 +5,7 @@ public class ProductFactory {
 
     private String[] foodProducts = {"Apple", "Steak", "Potatoes", "Salad", "Pear"};
     private String[] healthProducts = {"Face cream", "Vitamins", "Eye drops", "Toothpaste", "Shampoo"};
-    private String[] electricProducts = {"Hair dryer", "Vacuum", "Mixer", "Washing machine", "Dishwasher"};
+  
 
     ProductSorter productSorter = new ProductSorter();
 
