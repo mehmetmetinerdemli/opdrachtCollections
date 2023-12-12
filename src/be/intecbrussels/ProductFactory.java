@@ -41,11 +41,7 @@ public class ProductFactory {
         this.healthProducts = healthProducts;
     }
 
-    public String[] getElectricProducts() {
-        return electricProducts;
-    }
+  
 
-    public void setElectricProducts(String[] electricProducts) {
-        this.electricProducts = electricProducts;
-    }
+    
 }
